@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_reports_instructions">
+        <item>@string/send_reports_instruction</item>
+        <item>@string/send_facilities_instruction</item>
+        <item>@string/send_feedback_instruction</item>
+        <item>@string/send_reminders_instruction</item>
+    </string-array>
+
+    <string-array name="facilities_questions">
+        <item>@string/facilities_1</item>
+        <item>@string/facilities_2</item>
+        <item>@string/facilities_3</item>
+        <item>@string/facilities_4</item>
+        <item>@string/facilities_5</item>
+    </string-array>
+</resources>
