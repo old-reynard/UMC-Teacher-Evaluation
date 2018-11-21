@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Teacher Eval Admin</string>
+
+    <!--menu in Main activity-->
+    <string name="main_menu_edit_teachers">Edit teachers</string>
+    <string name="main_menu_logout">Log out</string>
+
+    <!--Main activity buttons-->
+    <string name="main_buttons_send_report">Send reports</string>
+    <string name="main_buttons_send_reminders">Send reminders</string>
+    <string name="main_buttons_edit_teachers">Edit list of teachers</string>
+
+    <!--Send Reports Activity-->
+    <string name="send_reports_instruction">Choose period for Teacher evaluation report</string>
+    <string name="send_facilities_instruction">Choose period for Facilities evaluation report</string>
+    <string name="send_feedback_instruction">Choose period for Feedback report</string>
+    <string name="send_reminders_instruction">Choose dates to see who has submitted their feedback</string>
+
+    <string name="send_reports_start_button">Start date</string>
+    <string name="send_reports_end_date">End date</string>
+
+    <!--Edit Teachers Activity-->
+    <string name="edit_teachers_header">Edit teachers</string>
+    <string name="edit_teachers_name">Name:</string>
+    <string name="edit_teachers_email">Email:</string>
+    <string name="teacher_edit_teacher">Edit teacher</string>
+    <string name="teacher_create_teacher">Create teacher</string>
+
+    <!--Facilities questions-->
+    <string name="facilities_1">The school is always clean</string>
+    <string name="facilities_2">The resources provided to students work and are helpful</string>
+    <string name="facilities_3">I am happy with the size of my classes</string>
+    <string name="facilities_4">The administrative staff is friendly and helpful</string>
+    <string name="facilities_5">I am interested in joining the school activities</string>
+</resources>
